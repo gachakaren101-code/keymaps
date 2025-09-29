@@ -10,11 +10,11 @@ F4 -> Signal Search<br />
 F5 -> Collapse menu<br />
 
 ## <-----| In combat |----->
-LMB -> Basic Attack<br />
+/ -> Basic Attack<br />
 Q -> Ultimate<br />
 E -> Skill<br />
 Space -> Switch Characters<br />
-L shift -> Sprint<br />
+R shift -> Sprint<br />
 1 -> Switch to first character<br />
 2 -> Switch to second character<br />
 
